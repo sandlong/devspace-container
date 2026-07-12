@@ -2,6 +2,8 @@
 
 A one-command Docker wrapper for [Waishnav/DevSpace](https://github.com/Waishnav/devspace). It provides an isolated coding workspace with filesystem, code execution, and terminal tools for MCP clients such as ChatGPT.
 
+The published image supports both `linux/amd64` and `linux/arm64`.
+
 ## Run
 
 ```bash
