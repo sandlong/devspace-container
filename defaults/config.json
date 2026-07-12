@@ -1,0 +1,10 @@
+{
+  "host": "0.0.0.0",
+  "port": 7676,
+  "allowedRoots": [
+    "/workspace"
+  ],
+  "publicBaseUrl": "http://localhost:7676",
+  "stateDir": "/home/devspace/.devspace/state",
+  "worktreeRoot": "/home/devspace/.devspace/worktrees"
+}
